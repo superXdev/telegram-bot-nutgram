@@ -1,0 +1,13 @@
+{
+    "name": "fikri/telegram-bot-nutgram",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fikri",
+            "email": "fikrizhanking@gmail.com"
+        }
+    ],
+    "require": {
+        "nutgram/nutgram": "^4.11"
+    }
+}
